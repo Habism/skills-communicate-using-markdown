@@ -29,3 +29,10 @@ public class Program
     }
 }
 ```
+
+# **Step 4: Make a task list**
+
+- [x] Buy a coffe.
+- [x] Read a book.
+- [x] Do excersie.
+- [ ] Rest.
