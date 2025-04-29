@@ -13,6 +13,19 @@
 ###### Header h6
 
 
-# **Step 1: Add an image**
+# **Step 2: Add an image**
 
 ![Dog](https://img.freepik.com/premium-photo/australian-shepherd-with-1-year-old-dog-portrait-isolated_191971-2368.jpg)
+
+
+# **Step 3: Add a code example**
+
+``` C#
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        System.Console.WriteLine("Hello, World!");
+    }
+}
+```
